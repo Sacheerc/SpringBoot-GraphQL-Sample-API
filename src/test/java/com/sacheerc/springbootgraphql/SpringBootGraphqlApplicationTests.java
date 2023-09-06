@@ -1,10 +1,10 @@
-package com.sacheerc.graphql;
+package com.sacheerc.springbootgraphql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GraphqlApplicationTests {
+class SpringBootGraphqlApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.sacheerc.graphql;
+package com.sacheerc.springbootgraphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GraphqlApplication {
+public class SpringBootGraphqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GraphqlApplication.class, args);
+		SpringApplication.run(SpringBootGraphqlApplication.class, args);
 	}
 
 }

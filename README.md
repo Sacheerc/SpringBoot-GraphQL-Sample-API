@@ -73,6 +73,3 @@ If you encounter any issues or have suggestions for improvements, please open an
 5. Create a pull request on the original repository.
 6. We will review your contribution and work with you to merge it into the project.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
